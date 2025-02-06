@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\EmailNotificationWebhooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5546DDA-B70C-43BA-A145-657CB4D0B99F}|EmailNotificationWebhooks.csproj|d:\\a_old_material\\aa_oldlab_top\\templetes\\asyncmicroserviceswithwebhooks\\emailnotificationwebhooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5546DDA-B70C-43BA-A145-657CB4D0B99F}|EmailNotificationWebhooks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\EmailNotificationWebhooks\\EmailNotificationWebhooks.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmailNotificationWebhooks.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\ProductApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\ProductApi\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\OrderApi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\OrderApi.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 36,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\ProductApi\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ProductApi\\appsettings.json",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\ProductApi\\appsettings.json",
+              "RelativeToolTip": "..\\ProductApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T07:11:21.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\ProductApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\ProductApi\\appsettings.Development.json",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\ProductApi\\appsettings.Development.json",
+              "RelativeToolTip": "..\\ProductApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T07:11:20.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\OrderApi\\WeatherForecast.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\OrderApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:11:20.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OrderApi\\Program.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\Program.cs",
+              "RelativeToolTip": "..\\OrderApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:11:20.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderApi.http",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\OrderApi.http",
+              "RelativeDocumentMoniker": "..\\OrderApi\\OrderApi.http",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\OrderApi.http",
+              "RelativeToolTip": "..\\OrderApi\\OrderApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-06T07:11:20.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderApi.csproj.user",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\OrderApi.csproj.user",
+              "RelativeDocumentMoniker": "..\\OrderApi\\OrderApi.csproj.user",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\OrderApi.csproj.user",
+              "RelativeToolTip": "..\\OrderApi\\OrderApi.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-02-06T07:11:20.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\OrderApi\\appsettings.json",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\appsettings.json",
+              "RelativeToolTip": "..\\OrderApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T07:11:07.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\OrderApi\\appsettings.Development.json",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\OrderApi\\appsettings.Development.json",
+              "RelativeToolTip": "..\\OrderApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T07:11:06.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\EmailNotificationWebhooks\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\EmailNotificationWebhooks\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:11:06.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailNotificationWebhooks.csproj.user",
+              "DocumentMoniker": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\EmailNotificationWebhooks\\EmailNotificationWebhooks.csproj.user",
+              "RelativeDocumentMoniker": "EmailNotificationWebhooks.csproj.user",
+              "ToolTip": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\AsyncMicroservicesWithWebhooks\\EmailNotificationWebhooks\\EmailNotificationWebhooks.csproj.user",
+              "RelativeToolTip": "EmailNotificationWebhooks.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-02-06T07:11:06.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

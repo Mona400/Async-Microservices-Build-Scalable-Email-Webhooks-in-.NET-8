@@ -1,6 +1,7 @@
 
 using Microsoft.EntityFrameworkCore;
 using ProductApi.Data;
+using ProductApi.Repository;
 using System;
 
 namespace ProductApi
@@ -24,6 +25,7 @@ namespace ProductApi
 
             });
             #endregion
+            builder.Services.AddScoped<IProduct,ProductRepo>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

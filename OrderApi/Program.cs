@@ -1,6 +1,7 @@
 
 using Microsoft.EntityFrameworkCore;
 using OrderApi.Data;
+using OrderApi.Repository;
 
 namespace OrderApi
 {
@@ -23,7 +24,7 @@ namespace OrderApi
 
             });
             #endregion
-
+            builder.Services.AddScoped<IOrder,OrderRepo>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

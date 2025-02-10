@@ -1,5 +1,7 @@
 
+using MassTransit;
 using Microsoft.EntityFrameworkCore;
+using OrderApi.Consumer;
 using OrderApi.Data;
 using OrderApi.Repository;
 
@@ -24,6 +26,22 @@ namespace OrderApi
 
             });
             #endregion
+            builder.Services.AddMassTransit(x =>
+            {
+                x.AddConsumer<ProductConsumer>();
+                x.UsingRabbitMq((context, config) =>
+                {
+                    config.Host("rabbitmq://localhost", c =>
+                    {
+                        c.Username("guest");
+                        c.Password("guest");
+                    });
+                    config.ReceiveEndpoint("product-queue", e =>
+                    {
+                        e.ConfigureConsumer<ProductConsumer>(context);
+                    });
+                });
+            });
             builder.Services.AddScoped<IOrder,OrderRepo>();
             var app = builder.Build();
 

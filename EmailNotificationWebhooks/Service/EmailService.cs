@@ -8,14 +8,15 @@ namespace EmailNotificationWebhooks.Service
     {
         public string SendEmail(EmailDTO emailDTO)
         {
+            //fack email you can generate from this website:https://ethereal.email/create
             var _email =new MimeMessage();
-            _email.From.Add(MailboxAddress.Parse(""));
-            _email.To.Add(MailboxAddress.Parse(""));
+            _email.From.Add(MailboxAddress.Parse("anahi.huel@ethereal.email"));
+            _email.To.Add(MailboxAddress.Parse("anahi.huel@ethereal.email"));
             _email.Subject=emailDTO.Title;
             _email.Body= new TextPart(MimeKit.Text.TextFormat.Html) { Text=emailDTO.Content };
             using var smtp = new SmtpClient();
-            smtp.Connect("",587,MailKit.Security.SecureSocketOptions.StartTls);
-            smtp.Authenticate("", "", CancellationToken.None);
+            smtp.Connect("smtp.ethereal.email", 587,MailKit.Security.SecureSocketOptions.StartTls);
+            smtp.Authenticate("anahi.huel@ethereal.email", "DzYsPaTuuuNwpHvnNm", CancellationToken.None);
             smtp.Send(_email);
             smtp.Disconnect(true);
             return "Email Sent";

@@ -1,4 +1,5 @@
 
+using MassTransit;
 using Microsoft.EntityFrameworkCore;
 using ProductApi.Data;
 using ProductApi.Repository;
@@ -25,6 +26,19 @@ namespace ProductApi
 
             });
             #endregion
+            builder.Services.AddMassTransit(x =>
+            {
+               
+                x.UsingRabbitMq((context, config) =>
+                {
+                    config.Host("rabbitmq://localhost", c =>
+                    {
+                        c.Username("guest");
+                        c.Password("guest");
+                    });
+                    
+                });
+            });
             builder.Services.AddScoped<IProduct,ProductRepo>();
             var app = builder.Build();
 
